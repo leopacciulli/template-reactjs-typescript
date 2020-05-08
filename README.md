@@ -23,7 +23,7 @@
 <br>
 
 ## 📝 About the project
-This is a React.js template with TypeScript which I decided to leave in a repository to save time. So I don't need to install and configure some libraries, whenever I have to create a new project. This project also has config such as: ESLint, Prettier and EditorConfig (vscode).
+This is a React.js template with TypeScript and some libs which I decided to leave in a repository to save time. So I don't need to install and configure some libraries, whenever I have to create a new project. This project also has config such as: ESLint, Prettier and EditorConfig (vscode).
 
 <br>
 
