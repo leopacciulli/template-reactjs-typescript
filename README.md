@@ -11,8 +11,6 @@
 
   <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/76f70dac6eb8494aa3f9b3cc6e6102dc">
 
-  <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/leopacciulli/template-reactjs-typescript">
-
   <br>
 
   <img alt="React.js version" src="https://img.shields.io/badge/React.js-v16.13.1-60dafb?style=flat&logoColor=60dafb&logo=react">
@@ -32,7 +30,6 @@ This is a React.js template with TypeScript and some libs which I decided to lea
 - **[TypeScript](https://www.typescriptlang.org/)**
 - *[React Router DOM](https://reacttraining.com/react-router/web/guides/quick-start)*
 - *[Styled-Components](https://styled-components.com/)*
-- *[React Icons](https://react-icons.netlify.com/#/)*
 - *[Axios](https://nodemon.io/)*
 - *[ESLint](https://eslint.org/)*
 - *[Prettier](https://prettier.io/)*
